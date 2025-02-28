@@ -14,6 +14,6 @@ A simple **Java-based Pizza Billing System** where users can customize their piz
 
 ## 🛠 Technologies Used  
 - **Java** (Core Java, OOP Concepts)  
-- **Scanner Class** (for user input)  
+
 
 ---
