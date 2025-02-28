@@ -1,7 +1,7 @@
-Pizza Bill Generator 🍕💰
-A simple Java-based Pizza Billing System where users can customize their pizza order, add extras, apply discounts, and get a detailed bill.
+#Pizza Bill Generator 🍕💰
+#A simple Java-based Pizza Billing System where users can customize their pizza order, add extras, apply discounts, and get a detailed bill.
 
-🚀 Features
+#🚀 Features
 ✅ Choose Veg or Non-Veg Pizza
 ✅ Select Pizza Size (Small, Medium, Large)
 ✅ Add Extra Cheese, Extra Toppings, or Stuffed Crust
